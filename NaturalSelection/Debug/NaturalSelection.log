@@ -1,0 +1,70 @@
+﻿  environment.cpp
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(237,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(267,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(270,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(417,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(569,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(580,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(593,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(602,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(616,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(632,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(660,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(660,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(661,83): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(661,61): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(662,89): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(662,61): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(663,83): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(663,55): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(667,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(693,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(763,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(774,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(791,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(803,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(807,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(850,28): warning C4244: 'argument': conversion from 'unsigned int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(879,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(985,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(1028,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(1047,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(1049,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5\NaturalSelection\environment.cpp(1077,21): warning C4018: '<': signed/unsigned mismatch
+  NaturalSelection.vcxproj -> C:\Users\Acer\Desktop\NaturalSelection5\Debug\NaturalSelection.exe
