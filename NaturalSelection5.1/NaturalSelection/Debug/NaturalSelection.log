@@ -1,0 +1,46 @@
+﻿  artimal.cpp
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\artimal.cpp(201,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\artimal.cpp(202,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\artimal.cpp(203,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  calc.cpp
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(8,51): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(15,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(16,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(17,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(19,50): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(26,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(27,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(34,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(35,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(77,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(139,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(151,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+  constants.cpp
+  error.cpp
+  main.cpp
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\main.cpp(15,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\main.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\main.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\main.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+  plot.cpp
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\plot.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\plot.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\plot.cpp(29,27): warning C4018: '<': signed/unsigned mismatch
+  range.cpp
+  Generating Code...
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(85): warning C4715: 'avg': not all control paths return a value
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(124): warning C4715: 'sd': not all control paths return a value
+C:\Users\Acer\Desktop\NaturalSelection5.1\NaturalSelection\calc.cpp(165): warning C4715: 'gaussian': not all control paths return a value
+  NaturalSelection.vcxproj -> C:\Users\Acer\Desktop\NaturalSelection5.1\Debug\NaturalSelection.exe
